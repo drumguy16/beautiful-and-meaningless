@@ -6,16 +6,11 @@
 	-Useful breakdown of steps in using this api —http://kylerush.net/blog/flickr-api/
 	—general request info	https://www.flickr.com/services/api/flickr.people.getPublicPhotos.html
 	—about getting source urls for images https://www.flickr.com/services/api/misc.urls.html
-	
+
 
 Key info
 
 Beautifool and Meaningless
-Key:
-c0b7f41434bd50013d55c956c211b834
-
-Secret:
-4ebed0a9610040f1
 
 
 
