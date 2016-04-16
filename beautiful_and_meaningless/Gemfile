@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
-# BAM gems of interest 
+# BAM gems of interest
+gem 'react-rails'
+
+
 gem 'figaro'
 
 gem 'foreman'
