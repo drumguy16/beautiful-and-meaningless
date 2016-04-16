@@ -1,0 +1,51 @@
+== README
+
+---------Beautifool and Meaningless Part 2
+
+-Reguarding flickr api resources
+	-Useful breakdown of steps in using this api —http://kylerush.net/blog/flickr-api/
+	—general request info	https://www.flickr.com/services/api/flickr.people.getPublicPhotos.html
+	—about getting source urls for images https://www.flickr.com/services/api/misc.urls.html
+	
+
+Key info
+
+Beautifool and Meaningless
+Key:
+c0b7f41434bd50013d55c956c211b834
+
+Secret:
+4ebed0a9610040f1
+
+
+
+javascript examples https://www.npmjs.com/package/flickrapi
+
+
+
+videos about using react with flickr!!!! https://vimeo.com/131136143
+
+and part 2  https://vimeo.com/131143317
+
+
+
+creating an image gallery with flickr api and react http://www.sitepoint.com/creating-image-gallery-using-flickr-api-requirements-markup/
+
+
+
+Ruby flickraw gem github https://github.com/hanklords/flickraw
+
+
+
+——————react tutorial resources
+
+creating Facebook app with react https://facebook.github.io/react/docs/tutorial.html
+
+Another react tutorial http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
+
+
+
+——————Quotes API
+
+https://market.mashape.com/andruxnet/random-famous-quotes
+
